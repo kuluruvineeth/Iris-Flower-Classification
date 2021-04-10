@@ -7,9 +7,9 @@
 * All of the numeric attributes are in the same units and the same scale not requiring any special scaling or transforms.
 
 
-## [Steps followed to work through small machine learning project end-to-end]
+## [Steps followed to work through small machine learning project end-to-end](https://github.com/kuluruvineeth/Iris-Flower-Classification/blob/main/Iris%20Flower%20Classification.ipynb)
 1. **Loading the dataset**
 2. **Summarizing the dataset**
 3. **Visualizing the dataset**
 4. **Evaluating some algorithms**
-5. **Making some predictions
+5. **Making some predictions**
